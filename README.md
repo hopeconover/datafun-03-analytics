@@ -135,14 +135,14 @@ In the same VS Code terminal, run any Python source files:
 
 ```shell
 uv run python src/datafun_03_analytics/app_case.py
-uv run python src/datafun_03_analytics/app_yourname.py
+uv run python src/datafun_03_analytics/app_hopeconover.py
 ```
 
 OR: Run them as modules (preferred):
 
 ```shell
 uv run python -m datafun_03_analytics.app_case
-uv run python -m datafun_03_analytics.app_yourname
+uv run python -m datafun_03_analytics.app_hopeconover
 ```
 
 For more see: [Running Python Reliably](https://denisecase.github.io/pro-analytics-02/06-python/running-python/).
@@ -195,14 +195,14 @@ Change each occurrence to point to your GitHub account instead (spacing and capi
 
 ### Project Task 2. Personalize Your Python File
 
-1. Rename `app_yourname.py` to reflect your name or alias.
+1. Rename `app_hopeconover.py` to reflect your name or alias.
 
 - Find the file the file in the VS Code Explorer window (top icon on the left).
 - Right-click / Rename.
 - Follow conventions: name Python files in lower_snake_case, words joined with underscores, and using `.py` extension.
 
 2. Edit this README.md file to change the run command to call your file instead.
-   Use CTRL+f to search for `app_yourname.py` and replace all occurrences exactly.
+   Use CTRL+f to search for `app_hopeconover.py` and replace all occurrences exactly.
 3. Preview this README.md to make sure it still appears correctly.
    - Find README.md in the VS Code Explorer window (top icon on the left)
    - Right-click / Preview
