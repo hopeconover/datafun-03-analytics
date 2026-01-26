@@ -1,6 +1,6 @@
-"""app_yourname.py - Project script.
+"""app_hopeconover.py - Project script.
 
-TODO: Replace "yourname" in the filename with your actual name or alias.
+Replace "yourname" in the filename with your actual name or alias.
 
 TODO: Read the examples carefully. Choose your data source of one of the provided types.
 TODO: Create and implement a new Python file (module) in this folder following the associated example.
@@ -14,7 +14,7 @@ TODO: Your module should have:
 - define a run_pipeline() function that calls E, T, L, and adds a new output file to data/processed/.
 TODO: Import and call your new module run_pipeline function in this script.
 
-Author: Your Name or Alias
+Author: Hope Conover
 Date: 2026-01
 
 Practice key Python skills:

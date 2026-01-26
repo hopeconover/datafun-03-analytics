@@ -2,7 +2,7 @@
 # pyproject.toml (Python and MkDocs project configuration)
 # ============================================================
 # VARIANT: python-mkdocs
-# SOURCE: https://github.com/denisecase/templates
+# SOURCE: https://github.com/hopeconover/templates
 
 # REQ.PYTHON: Python projects MUST include pyproject.toml as the single source of truth.
 # WHY: Centralizes project configuration.
