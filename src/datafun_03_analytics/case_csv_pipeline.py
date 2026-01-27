@@ -154,7 +154,7 @@ def run_csv_pipeline(*, raw_dir: Path, processed_dir: Path, logger: Any) -> None
     logger.info("CSV: START")
 
     input_file = raw_dir / "2020_happiness.csv"
-    output_file = processed_dir / "csv_ladder_score_stats.txt"
+    output_file = processed_dir / "csv_ladder_score_statsHC.txt"
 
     # E
     scores = extract_csv_scores(file_path=input_file, column_name="Ladder score")
