@@ -24,10 +24,12 @@ Think about some raw data you would like to process.
 ## Project Specific Choices for Data Pipeline projects
 
 We've turned off some PyRight type checks since we are working with raw data pipelines.
+
 - WHY: We don't know what types things are until after we read them.
 - See pyproject.toml and the [tool.pyright] section for details.
 
 We use keyword-only function arguments when defining our ETL functions.
+
 - In our functions, you'll see a `*,`.
 - The asterisk can appear anywhere in the list of parameters.
 - EVERY argument AFTER the asterisk must be passed using the named keyword argument (also called kwarg), rather than by position.
@@ -62,9 +64,9 @@ Follow the detailed instructions at:
 
 2. Configure Repository Settings:
    - Select your repository **Settings** (the gear icon way on the right).
-   -  Go to **Pages** tab / Enable GitHub Pages / Build and deployment / set **Source** to **GitHub Actions**
-   -  Go to **Advanced Security** tab / Dependabot / **Dependabot security updates** / **Enable**
-   -  Go to **Advanced Security** tab / Dependabot / **Grouped security updates** / **Enable**
+   - Go to **Pages** tab / Enable GitHub Pages / Build and deployment / set **Source** to **GitHub Actions**
+   - Go to **Advanced Security** tab / Dependabot / **Dependabot security updates** / **Enable**
+   - Go to **Advanced Security** tab / Dependabot / **Grouped security updates** / **Enable**
 
 3. Clone to local: Open a **machine terminal** in your **`Repos`** folder and clone your new repo.
 
@@ -72,18 +74,18 @@ Follow the detailed instructions at:
   git clone https://github.com/YOURACCOUNT/datafun-03-analytics
   ```
 
-4. Open project in VS Code: Change directory into the repo and open the project in VS Code by running `code .` ("code dot"):
+1. Open project in VS Code: Change directory into the repo and open the project in VS Code by running `code .` ("code dot"):
 
   ```shell
   cd datafun-03-analytics
   code .
   ```
 
-5. Install recommended extensions.
+1. Install recommended extensions.
 
    - When VS Code opens, accept the Extension Recommendations (click **`Install All`** or similar when asked).
 
-6. Set up a project Python environment (managed by `uv`) and align VS Code with it.
+2. Set up a project Python environment (managed by `uv`) and align VS Code with it.
 
    - Use VS Code menu option `Terminal` / `New Terminal` to open a **VS Code terminal** in the root project folder.
    - Run the following commands, one at a time, hitting ENTER after each:
@@ -188,7 +190,7 @@ Additional details and troubleshooting are available in the [Pro-Analytics-02 Do
 
 ### Project Task 1. Personalize Your Documentation Links
 
-Open [mkdocs.yaml](./mkdocs.yaml).
+Open [mkdocs.](./mkdocyamls.yaml).
 This file configures the associated project documentation website (powered by MkDocs)
 Use CTRL+f to find each occurrence of the source GitHub account (e.g. `denisecase`).
 Change each occurrence to point to your GitHub account instead (spacing and capitalization MUST match the URL of your GitHub account **exactly**.)
@@ -201,13 +203,13 @@ Change each occurrence to point to your GitHub account instead (spacing and capi
 - Right-click / Rename.
 - Follow conventions: name Python files in lower_snake_case, words joined with underscores, and using `.py` extension.
 
-2. Edit this README.md file to change the run command to call your file instead.
+1. Edit this README.md file to change the run command to call your file instead.
    Use CTRL+f to search for `app_hopeconover.py` and replace all occurrences exactly.
-3. Preview this README.md to make sure it still appears correctly.
+2. Preview this README.md to make sure it still appears correctly.
    - Find README.md in the VS Code Explorer window (top icon on the left)
    - Right-click / Preview
    - Fix any issues.
-4. Run the updated command to execute **your** Python script.
+3. Run the updated command to execute **your** Python script.
 
 ### Project Task 3. Implement Your Python File
 
@@ -232,7 +234,7 @@ Change each occurrence to point to your GitHub account instead (spacing and capi
 - Use the **UP ARROW** and **DOWN ARROW** in the terminal to scroll through past commands.
 - Use `CTRL+f` to find (and replace) with in a file.
 
-## Troubleshooting >>> or ...
+## Troubleshooting >>> or
 
 If you see something like this in your terminal: `>>>` or `...`
 You accidentally started Python interactive mode.
