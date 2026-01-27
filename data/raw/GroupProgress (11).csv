@@ -1,0 +1,218 @@
+First_Name,Course_Name,Percent_Complete_Time,Percent_Complete_Count,Relative_Grade,Overall_Grade,Actual_Grade
+Sierra,PBHS - Ag Science (1 quarter),0,0,0,0,0
+Sierra,PBHS - Algebra I (Sem 2),0.29,0.72,0,0,0
+Sierra,PBHS - American History (Sem 1),0.26,0.64,0,0,0
+Sierra,PBHS - Basic Food and Nutrition  (1 Quarter),100,100,91.8,91.8,91.8
+Sierra,PBHS - English III (Sem 1) Quarter 2,0,0,0,0,0
+Sierra,PBHS - Government (Sem 1) Quarter 1,75.83,76.84,69.1,96.3,73
+Sierra,PBHS - Personal Finance (1 Quarter),0.34,1.22,0,0,0
+Sierra,PBHS - Spanish I (Sem 1) Quarter 1,100,100,96.6,96.6,96.6
+Sierra,PBHS - Spanish I (Sem 2),0,0,0,0,0
+Sierra,PBHS - Technical Algebra II (Sem 1) Quarter 1,0.39,0.9,0,0,0
+Brianna,MT 24-25 PBHS - American History (Sem 2),17.4,19.14,11.1,80.6,14
+Brianna,MT 24-25 PBHS - Biology (Sem 2),11.63,13.51,11.4,72.2,8.4
+Brianna,MT 24-25 PBHS - Discrete Math I (Sem 2),22.63,24.71,20.5,75.9,17.2
+Brianna,MT 24-25 PBHS - World History (Sem 2),8.37,8.55,2.5,82.5,6.9
+Brianna,PBHS - American History (Sem 2),0,0,0,0,N/A
+Brianna,PBHS - Biology (Sem 2) Quarter 3,0,0,0,0,N/A
+Brianna,PBHS - English III (Sem 2) Quarter 3,0,0,0,0,N/A
+Brianna,PBHS - Government (Sem 2) Quarter 4,0,0,0,0,N/A
+Brianna,PBHS - PE (Lifetime Fitness) Sem 1,67.61,70.63,51.5,93.2,63
+Brianna,PBHS - Personal Finance (1 Quarter),0,0,0,0,N/A
+Brianna,PBHS - Physical Science (Sem 1) Quarter 2,0,0,0,0,N/A
+Brianna,PBHS- Algebra IB (Sem 2)(Quarter 3),0,0,0,0,N/A
+Javien,PBHS - English III (Sem 2),47.33,57.14,24.8,98.2,46.5
+Izayah,PBHS - LL LA I (Sem 1) Updated,77.48,76.83,62.2,84.3,72.6
+Izayah,PBHS - LL Math I (Sem 1) Updated,40.67,40.16,27,86.5,39.09
+Maddison,PBHS - English I  (Sem 1),19.61,17.73,4.5,85.4,16.7
+Maddison,PBHS - English I (Sem 2),0,0,0,0,0
+Chaise,PBHS - Algebra I (Sem 1),8.19,9.38,3.8,81.4,81.4
+Chaise,PBHS - Biology (Sem 2),67.61,70.18,40,76.7,76.7
+Wyatt,PBHS - Biology (Sem 1),27.39,29.09,10.1,53.2,14.6
+Wyatt,PBHS - LL LA II (Sem 2),7.51,8.27,2.5,64.4,4.8
+Zeth,PBHS - Algebra IA (Sem 2),0.48,1.12,0,0,0
+Zeth,PBHS - LL LA I (Sem 1) Updated,4.48,4.76,2.4,73.5,73.5
+Katrina,PBHS - American History (Sem 2),10.78,11.66,5,68.3,68.3
+Katrina,PBHS - Biology (Sem 1),62.93,66.67,25,50.5,50.5
+Christopher,PBHS - English II (Sem 2),38.76,37.89,14.6,58.3,58.3
+Christopher,PBHS - World History (Sem 2),6.26,6.49,1.7,86.7,5.4
+Scott,PBHS - Technical Geometry (Sem 1),36.88,38.32,27.3,87.4,87.4
+Scott,PBHS - Technical Geometry (Sem 2),0,0,0,0,0
+Warren,PBHS - Algebra IA (Sem 1),17.88,21.05,7.1,76.4,76.4
+Warren,PBHS - Biology (Sem 1),0.27,0.76,0,0,0
+Lilly,PBHS - American History (Sem 1),12.16,12.74,6.3,79.4,79.4
+Lilly,PBHS - English I  (Sem 1),25.94,23.15,14.6,66.4,17.2
+Lilly,PBHS - English II (Sem 1),4.13,4.49,0.7,66.7,2.8
+Carissa,PBHS - Algebra II (Sem 1),0,0,0,0,0
+Carissa,PBHS - Discrete Math II (Sem 2),0,0,0,0,0
+Carissa,PBHS - English III (Sem 2),0.71,1.1,0,0,0
+Tiara,PBHS - Biology (Sem 1),73.2,78.79,47.8,82.7,82.7
+Tiara,PBHS - Biology (Sem 2),57.06,59.65,29.9,72.7,72.7
+Tiara,PBHS - Physical Science (Sem 2),67.34,69.91,40.5,74,49.9
+Tiara,PBHS- Algebra IB (Sem 2),27.86,27.89,21.8,83.2,83.2
+Tiara,PBHS-Algebra IB (Sem 1),7.17,6.52,1.7,68,68
+Keaten,PBHS - Earth and Space Science (Sem 1),56.53,57.55,48.1,87.4,87.4
+Rylee,PBHS - LL LA I (Sem 2) Updated,33.41,33.59,16.4,56,56
+Rylee,PBHS - LL Social Studies I (Sem 1),45.13,46.07,23.9,63.5,28.6
+Braxton,PBHS - American History (Sem 1),17.45,18.47,7.9,64.4,11.2
+Braxton,PBHS - Earth and Space Science (Sem 2),7.05,7.41,2.5,80,5.6
+Braxton,PBHS - LL Math I (Sem 2) Updated,3.26,3.45,1.2,48,1.6
+Diontay,PBHS - Algebra I (Sem 2),49.96,51.45,20.9,60.8,30.4
+Diontay,PBHS - Technical Geometry (Sem 2),0.29,0.56,0,0,0
+Noah,PBHS - Algebra I (Sem 2),4.35,4.41,2.3,97.7,4.2
+Cameron,PBHS - Algebra IA (Sem 2),24,25.62,16.4,83.4,83.4
+Cameron,PBHS - English II (Sem 2),17.36,17.39,3.8,73.6,73.6
+Cameron,PBHS-Algebra IB (Sem 1),0.29,0.72,0,0,0
+Skylar,PBHS - Technical Geometry (Sem 1),0,0,0,0,0
+Skylar,PBHS - World History (Sem 1),0,0,0,0,0
+Kennedie,PBHS - Discrete Math I (Sem 2),14.77,15.56,6.1,87.5,87.5
+Kennedie,PBHS - English II (Sem 1),45.63,47.75,23.7,77.4,35.3
+Ellijah,PBHS - LL Biology (Sem 2),38.9,39.85,27.5,81.5,31.7
+Ellijah,PBHS - LL Earth Science (Sem 2),1.36,0.87,0.2,27.3,27.3
+Carlos,PBHS - Algebra I (Sem 2),2.32,2.17,0,0,0
+Carlos,PBHS - Earth and Space Science (Sem 2),12.67,12.17,2.8,64.9,8.2
+Carlos,PBHS - English I (Sem 2),11.88,17.19,5.1,78,9.3
+Ethan,MT 25-26 PBHS - English III (Sem 1),86.94,96.18,88,97.7,97.7
+Ethan,PBHS - English III (Sem 2),14.15,18.68,5.2,95.1,13.5
+Zoe,PBHS - American History (Sem 1),2.04,1.27,0,0,0
+Rylee,PBHS - Algebra I (Sem 1),5.71,6.88,2.7,84.8,4.8
+Rylee,PBHS - American History (Sem 1),7.18,7.64,2.4,75.4,75.4
+Rylee,PBHS - Physical Science (Sem 1),39.02,45,21.8,88.7,34.6
+Ian,PBHS - Discrete Math II (Sem 2),49.97,51.78,32.7,88.2,88.2
+Ian,PBHS - English III (Sem 1),5.78,8.18,1.7,68.1,68.1
+Ian,PBHS - English III (Sem 2),0,0,0,0,0
+Emily,PBHS - American History (Sem 2),100,100,91.9,91.9,91.9
+Emily,PBHS - Health,26.29,25.78,20,94.6,94.6
+Emily,PBHS - Investigating Art,3.14,3.23,0.9,80,80
+Cameron,PBHS - LL American History (Sem 1),6.27,5.75,3.9,100,6.3
+Jordan,PBHS - Government (Sem 1),45.22,45.26,34.7,87.5,39.6
+Jordan,PBHS - Personal Finance,15.64,14.19,3.9,67,67
+Dylan,PBHS - Algebra I (Sem 2),3.88,3.62,1.7,94,3.6
+Dylan,PBHS - English I (Sem 2),4,5.47,1.5,80,3.2
+Elijah,PBHS - American History (Sem 2),86.01,86.5,55.4,76.7,76.7
+Elijah,PBHS - English I  (Sem 1),59.76,51.72,28.8,66.5,39.8
+Elijah,PBHS - English I (Sem 2),0,0,0,0,0
+Elizabeth,PBHS - English III (Sem 1),47.68,52.83,21.8,59.7,59.7
+Elizabeth,PBHS - Government (Sem 1),57.75,58.95,37.4,78.4,45.3
+Malia,MT-MO-Algebra I CR Sem. 1 (PBHS Use Only),66.19,68.75,42.2,85.1,85.1
+Malia,PBHS - Technical Geometry (Sem 2),33.34,34.44,21.1,85.1,85.1
+Fenix,PBHS - Ag Science,0,0,0,0,0
+Fenix,PBHS - Animal Science,0,0,0,0,0
+Fenix,PBHS - Basic Food and Nutrition (Sem 1),0,0,0,0,0
+Fenix,PBHS - Health,6.36,5.47,1.7,82.1,82.1
+Xavier,PBHS - Math 300 (Sem 2),44.96,45.56,33.3,82,36.9
+Nathaniel,PBHS - Algebra I (Sem 2),0,0,0,0,0
+Nathaniel,PBHS - English I (Sem 2),0.3,0.78,0,0,0
+Caden,MT 25-26 Accepting and Taking Responsibility,100,100,100,100,100
+Caden,"MT 25-26 Creating Ambition, Curiosity, and Self-Motivation",100,100,75,75,75
+Caden,MT 25-26 Dressing and Grooming for Success,100,100,60,60,60
+Caden,MT 25-26 Writing Life Changing Goals for My Future,100,100,50,50,50
+Caden,PBHS - Ag Science (1 quarter),100,100,54.3,54.3,54.3
+Caden,PBHS - Family and Community Services (1 Quarter),100,100,36.8,36.8,36.8
+Caden,PBHS - LL General Science (Sem 1),6.76,8.09,3.6,77.9,5.3
+Caden,PBHS - LL General Science (Sem 2),0,0,0,0,0
+Caden,PBHS - LL LA 400 (Sem 1) (1 Quarter),3.41,3.85,0.7,41.4,41.4
+Caden,PBHS - Math 400 (Sem 1) (1 Quarter),50,50,32.9,65.8,65.8
+Caden,PBHS - Science 400 (Sem 1) (1 Quarter),6.59,6.9,3.5,69.6,4.6
+Caden,PBHS - Social Studies 400 (Sem 1) (1 Quarter),0,0,0,0,0
+Noah,PBHS - Biology (Sem 2),37.07,40.35,30.1,96,96
+Ondra,PBHS - Algebra I (Sem 2),0,0,0,0,0
+Talea,PBHS - Introduction to Art,43.56,42.55,33.7,82.4,35.9
+Talea,PBHS - LL LA I (Sem 1) Updated,40.08,40.24,25.3,73.4,29.4
+Brynn,MT-MO-Algebra I CR Sem. 2 (PBHS Use Only),46.72,47.83,26.5,79.4,37.1
+Ja'Coby,PBHS - American History (Sem 1),2.71,2.55,1.1,71.4,71.4
+Ja'Coby,PBHS - English I  (Sem 1),7.26,9.36,1.6,66.1,4.8
+Myles,PBHS - Discrete Math II (Sem 2),100,100,95.6,95.6,95.6
+Teyana,PBHS - Technical Algebra II (Sem 1),0,0,0,0,N/A
+Teyana,PBHS - Technical Geometry (Sem 2),2.22,2.22,0.5,90.9,90.9
+Brayden,PBHS-Algebra IB (Sem 1),8.15,7.97,3.1,84.9,84.9
+Lacey,PBHS - Geometry (Sem 2),75.77,78.48,51.9,87,87
+Lilith,PBHS - English I  (Sem 1),0,0,0,0,0
+Lilith,PBHS - English II (Sem 1),0,0,0,0,0
+Christian,PBHS - LL LA II (Sem 1),90.18,91.6,75.4,89.8,81
+Christian,PBHS - LL Math I (Sem 1) Updated,25.65,25.41,19.5,84.3,21.6
+Christian,PBHS - LL Math I (Sem 2) Updated,7.88,7.76,4.3,90.3,7.1
+Jaden,PBHS - Biology (Sem 1),60.55,60,52.5,92.4,92.4
+Gracie,PBHS - LL American History (Sem 2),75.15,75.47,58.2,80,60.1
+Gracie,PBHS - LL LA I (Sem 2) Updated,23.43,23.64,15.5,69.1,16.2
+Larry,PBHS - Biology (Sem 1),30.33,31.82,17.5,79.2,79.2
+Larry,PBHS - Biology (Sem 2),0,0,0,0,0
+Kaylee,PBHS - Physical Science (Sem 2),12.05,13.27,9.3,91,11
+Gabriella,MT 24-25 PBHS - Algebra I (Sem 1),21.84,23.12,14.8,77.7,17
+Gabriella,PBHS - Algebra I (Sem 2),0,0,0,0,0
+Kinzy,PBHS - American History (Sem 1),2.71,2.55,1.1,71.4,71.4
+Kinzy,PBHS - LL LA I (Sem 1) Updated,2.24,2.38,1.2,73.8,73.8
+Robert,PBHS - Algebra I (Sem 1),59.46,61.25,35.2,78.6,46.7
+Wade,PBHS - Algebra IA (Sem 2),0,0,0,0,0
+Wade,PBHS - English I  (Sem 1),34.41,32.51,11.2,51.7,17.8
+Wade,PBHS - English I (Sem 2),0,0,0,0,0
+Cohen,PBHS - Biology (Sem 1),61.22,65.15,33.2,70.2,70.2
+Evelyn,PBHS - Algebra II (Sem 2),73.33,76.81,57,98.2,98.2
+Isabella,PBHS - American History (Sem 2),19.92,20.86,8.5,72,72
+Isabella,PBHS - English I  (Sem 1),4.19,5.42,1,70.4,2.9
+Isabella,PBHS - English I (Sem 2),9.14,12.5,4.1,87.6,8
+Isabella,PBHS - Health,35.77,34.38,20,76.8,76.8
+River,PBHS - English I  (Sem 1),75.53,68.47,43.8,68.7,51.9
+Cristian,PBHS - Algebra I (Sem 1),4.87,5.62,1.4,65.5,3.2
+Cristian,PBHS - Algebra I (Sem 2),0.29,0.72,0,0,0
+Cristian,PBHS - American History (Sem 2),100,100,78.4,78.4,78.4
+Cristian,PBHS - Biology (Sem 2),100,100,71.9,71.9,71.9
+Cristian,PBHS - English I (Sem 2),0,0,0,0,0
+Cristian,PBHS - PE (Lifetime Fitness) Sem 1,93.09,97.2,66.1,89.2,83.1
+Cristian,PBHS - Physical Science (Sem 1),0,0,0,0,0
+Lyric,PBHS - Discrete Math I (Sem 1),64.16,66.47,44.4,86.5,86.5
+Elijah,PBHS - Algebra I (Sem 1),33.5,36.25,17.1,66.5,22.3
+Elijah,PBHS - English I  (Sem 1),17.19,15.76,3.6,80.4,13.8
+Gage,PBHS - English III (Sem 1),8.87,10.69,2.5,68.5,68.5
+Jennika,PBHS - Biology (Sem 1),0,0,0,0,0
+Jennika,PBHS - English II (Sem 2),80.41,86.96,39.5,77.7,77.7
+Bella,PBHS - Algebra I (Sem 1),24.81,26.88,18.3,88.7,22
+Bella,PBHS - English I (Sem 2),0,0,0,0,0
+James,PBHS - LL Earth Science (Sem 1),2.03,2.11,1.1,73.3,73.3
+Brianna,PBHS - PE (Lifetime Fitness) Sem 2,45.73,46.98,25.8,94.4,94.4
+Carli,PBHS - Biology (Sem 2),10.36,11.4,7.7,77.2,77.2
+Carli,PBHS- Algebra IB (Sem 2),2.78,2.72,0.7,80,80
+Carli,PBHS-Algebra IB (Sem 1),3.21,2.9,0.3,50,50
+Gavin,PBHS - Algebra IA (Sem 2),0.25,0.62,0,0,0
+Chanse,PBHS - English III (Sem 1),86.1,94.34,60.4,94.8,94.8
+Chanse,PBHS - Technical Geometry (Sem 1),0,0,0,0,N/A
+Elliott,PBHS - English I (Sem 2),1.54,2.34,0.8,100,1.5
+Julia,PBHS - American History (Sem 1),10.57,10.83,4.7,83.1,83.1
+Julia,PBHS - American History (Sem 2),9.47,9.2,4.2,95,95
+Tierney,PBHS - Algebra I (Sem 2),0,0,0,0,0
+Cameron,PBHS - Health,11.38,11.11,4,63.2,7.2
+Cameron,PBHS - Introduction to Art,1.51,2.13,0,0,0
+Abbegayle,PBHS - English I (Sem 2),20.27,26.56,9.6,86.8,17.6
+Abbegayle,PBHS - English II (Sem 1),0.25,0.56,0,0,0
+James,PBHS - American History (Sem 1),2.71,2.55,1.3,85.7,2.3
+Amijae,PBHS - English I  (Sem 1),23.92,21.18,14.6,70.2,16.8
+Amijae,PBHS - English I (Sem 2),0.3,0.78,0,0,0
+Sieed,PBHS - English I (Sem 2),81.9,89.84,43.4,68.1,55.8
+Sieed,PBHS - Geometry (Sem 1),64.88,68.24,29.4,66.3,66.3
+Tyler,PBHS - Health,41.15,38.89,20.6,58.1,23.9
+Abigail,PBHS - English I (Sem 2),38.93,44.53,27.3,83.5,32.5
+Dan,PBHS - Ag Science (1 quarter),28.66,28.85,7,55.6,15.9
+Dan,PBHS - Algebra IA (Sem 2) Quarter 3,5.12,5.62,2.7,73.1,73.1
+Dan,PBHS - American History (Sem 2) Quarter 3,0.62,1.22,0,0,0
+Dan,PBHS - English III (Sem 2) Quarter 3,0,0,0,0,N/A
+Dan,PBHS - Government (Sem 1),100,100,76.7,76.7,76.7
+Dan,PBHS - PE (Lifetime Fitness) (1 Quarter),0,0,0,0,N/A
+Dan,PBHS - Personal Finance (1 Quarter),0,0,0,0,N/A
+Dan,PBHS- Psycology (Sem) 1 Quarter,0,0,0,0,N/A
+Lexi,PBHS - LL Earth Science (Sem 1),57.63,57.89,33.6,61.4,35.4
+Lexi,PBHS - LL Math III (Sem 2),18.67,21.65,7.1,56.4,56.4
+Ryli,PBHS - Algebra I (Sem 2),81.47,84.78,56.3,92,74.9
+Ryli,PBHS - American History (Sem 1),59.02,58.6,49.5,87.2,87.2
+Ryli,PBHS - English I  (Sem 1),60.13,52.22,31.1,72.1,43.4
+Ryli,PBHS - English I (Sem 2),69.15,72.66,41.6,75.6,52.3
+DaSauni,PBHS - English II (Sem 2),14.81,16.15,3.8,78.5,78.5
+Dayton,PBHS - Technical Geometry (Sem 1),0,0,0,0,N/A
+Mason,PBHS - Technical Geometry (Sem 1),0,0,0,0,N/A
+Klayton,PBHS - English II (Sem 1),30.91,30.9,5.7,37.5,11.6
+Klayton,PBHS - LL Math II (Sem 1),17.09,19.08,6.4,72.3,72.3
+Ahmaura,PBHS - Geometry (Sem 2),12.88,13.29,5.2,81.8,81.8
+Kobe,PBHS - Biology (Sem 1),62.93,66.67,39.6,88.3,88.3
+Kobe,PBHS - Technical Geometry (Sem 2),56.15,58.33,35,79.4,44.6
+Alexia,PBHS - Language Arts 300 (Sem 2),4.96,5.61,3.1,66.6,3.3
+Colten,PBHS - Algebra I (Sem 2),14.74,14.49,6.6,90.6,13.3
+Alani,PBHS - Algebra IA (Sem 2),28.05,29.21,13.4,75.8,75.8
