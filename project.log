@@ -252,3 +252,12 @@
 2026-01-26 19:55:55 | INFO | P03 | github_actions=False
 2026-01-26 19:55:55 | INFO | P03 | START main()
 2026-01-26 19:55:55 | INFO | P03 | END main()
+2026-01-26 20:04:24 | INFO | P03 | === RUN START ===
+2026-01-26 20:04:24 | INFO | P03 | project=Pipelines: Read, Process, Verify, Write (ETVL)
+2026-01-26 20:04:24 | INFO | P03 | repo_dir=datafun-03-analytics
+2026-01-26 20:04:24 | INFO | P03 | python=3.14.2
+2026-01-26 20:04:24 | INFO | P03 | os=Windows 11
+2026-01-26 20:04:24 | INFO | P03 | shell=powershell
+2026-01-26 20:04:24 | INFO | P03 | cwd=.
+2026-01-26 20:04:24 | INFO | P03 | github_actions=False
+2026-01-26 20:04:24 | INFO | P03 | START main()
