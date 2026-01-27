@@ -52,7 +52,6 @@ def main() -> None:
     log_header(LOG, "Pipelines: Read, Process, Verify, Write (ETVL)")
     LOG.info("START main()")
 
-    # TODO: call your imported data pipeline that reads from data/raw and writes to data/processed.
     run_csv_pipeline(raw_dir=RAW_DIR, processed_dir=PROCESSED_DIR, logger=LOG)
 
     LOG.info("END main()")
