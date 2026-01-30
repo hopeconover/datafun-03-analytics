@@ -1,14 +1,15 @@
 import csv
+import logging
 from pathlib import Path
 import statistics
 
 
-def run_crime_pipeline(*, raw_dir: Path, processed_dir: Path, logger):
+def run_crime_pipeline(*, raw_dir: Path, processed_dir: Path, logger: logging.Logger):
     logger.info("CRIME PIPELINE: Starting")
 
     # E: EXTRACT (Read the data)
     input_file = raw_dir / "stl_crime_stats.csv"
-    districts = []
+    districts: list[float] = []
 
     with Path.open(input_file, encoding="utf-8") as f:
         reader = csv.DictReader(f)
