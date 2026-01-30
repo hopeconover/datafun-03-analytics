@@ -31,7 +31,7 @@ from datafun_toolkit.logger import get_logger, log_header
 # === IMPORT LOCAL MODULE FUNCTIONS ===
 # REQ: imports from other modules in this project must use full package path
 # TODO: create and import your own data pipeline module here. See the example code.
-from datafun_03_analytics.case_csv_pipeline import run_csv_pipeline
+from datafun_03_analytics.crime_pipeline import run_crime_pipeline
 
 # === CONFIGURE LOGGER ONCE PER MODULE ===
 
@@ -49,10 +49,10 @@ PROCESSED_DIR: Final[Path] = DATA_DIR / "processed"
 
 def main() -> None:
     """Entry point: run four simple ETVL pipelines."""
-    log_header(LOG, "Pipelines: Read, Process, Verify, Write (ETVL)")
+    log_header(LOG, "St. Louis Crime Data Analytics")
     LOG.info("START main()")
 
-    run_csv_pipeline(raw_dir=RAW_DIR, processed_dir=PROCESSED_DIR, logger=LOG)
+    run_crime_pipeline(raw_dir=RAW_DIR, processed_dir=PROCESSED_DIR, logger=LOG)
 
     LOG.info("END main()")
 
